@@ -96,6 +96,3 @@ Keshav Gokul
 ## License
 
 This project is open-source and available under the MIT License.
-12345
-56789
-01234
